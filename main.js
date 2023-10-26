@@ -1,0 +1,1 @@
+alert("olá homohabilis primata incopetente e burro");
